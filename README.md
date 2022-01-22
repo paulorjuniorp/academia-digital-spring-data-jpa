@@ -23,6 +23,24 @@
     <li>Postman</li>
 </ul>
 
+<h2>Foram adicionados</h2>
+
+<ul>
+    <li>Os end-points de update e delete</li>
+    <li>A criação das views (DTO)</li>
+</ul>
+
+<ul>
+    <li>IDE IntelliJ</li>
+    <li>Java 11</li>
+    <li>Maven</li>
+    <li><strong>Spring Web</strong></li>
+    <li><strong>Spring Data JPA</strong></li>
+    <li><strong>PostgreSQL Driver</strong></li>
+    <li><strong>Hibernate Validator</strong></li>
+    <li>Lombok</li>
+    <li>Postman</li>
+</ul>
 
 <h2><a href="https://strn.com.br/artigos/2018/12/11/todas-as-anota%C3%A7%C3%B5es-do-jpa-anota%C3%A7%C3%B5es-de-mapeamento/"> Anotações de Mapeamento </a></h2>
 
